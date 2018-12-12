@@ -14,8 +14,4 @@ Many of my friends are preparing the coding interview by working out leetcode in
   
 How to Contribute
 -----  
-Please fork this repository, make a new local branch. When you make your changes, please commit at that branch and make a pull request.  
-
-Find it Online!  
------  
-Right now this project is hosted on http://wwwx.cs.unc.edu/~zhew/Leetcoder/
+Please fork this repository or git clone it, make a new local branch. When you make your changes, please commit at that branch and make a pull request.  
